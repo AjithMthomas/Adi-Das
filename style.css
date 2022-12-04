@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header1{
+    height:5vh;
+    
+}
+.headerR{
+    width: 100%;
+}
+.sec4row{
+    list-style:none;
+}
+.sec5{
+    height: 15vh;
+    width: 100vw;
+    background-color:#363738;
+    color: aliceblue;
+   }
+#sec5h5
+{
+    padding: 10px;
+   font-size: small;
+}
+
+
+
